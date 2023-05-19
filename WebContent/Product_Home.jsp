@@ -15,6 +15,7 @@
 		<%
 		try{
 			ResultSet rs=(ResultSet)session.getAttribute("rs_category");	 
+			
 			ResultSetMetaData rsm=rs.getMetaData();
 			int i=rsm.getColumnCount();
 		%>
