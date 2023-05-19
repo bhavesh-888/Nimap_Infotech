@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 @WebServlet("/SQL_Database_Entry")
-public class SQL_Database_Entry extends HttpServlet {
+public class SQL_Database_Tables extends HttpServlet {
 	
 		@Override
 		protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
