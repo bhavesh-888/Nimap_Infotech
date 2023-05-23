@@ -77,8 +77,8 @@
                 <tr>
                     <th>Product ID</th>
                     <th>Product Name</th>
-                    <th>Category ID</th>
                     <th>Category Name</th>
+                    <th>Category ID</th>
                 </tr>
                 
                 <% 
