@@ -9,5 +9,7 @@ Then run "Index.jsp"
 If the data exceds 10 rows then next button will be shown. 
 Previous Button will be shown from page 2 onwards
 
+Click on the category to view specific products in that category
+
 Languages used :- Java, HTML, CSS, JS.
 
